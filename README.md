@@ -16,16 +16,16 @@ Install dependencies:
 npm install
 
 Add TMDB API key to .env:
-VITE_TMDB_API_KEY=your_key_here
+-VITE_TMDB_API_KEY=your_key_here
 
 Run app:
 npm run dev
 
 Tech Stack:-
-React
-React Router
-Context API
-TMDB API
-CSS Modules
+1. React
+2. React Router
+3. Context API
+4. TMDB API
+5. CSS Modules
 
 
